@@ -1,4 +1,4 @@
-# MicroProcessor System 1
+# MicroProcessor System
 This class is an elective course in NTHU's electrical engineering program. I'm documenting the lab content as notes with the hope that it can assist others who are taking similar courses. 
 
 This course uses 8051, a Microprocessor developed by Microsoft back in 1980s. The following content is some introduction to 8051.
